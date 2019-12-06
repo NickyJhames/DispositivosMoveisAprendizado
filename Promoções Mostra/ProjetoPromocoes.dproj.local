@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/07 11:29:12.000.292,=C:\Users\Nicky\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 12:09:16.000.652,=C:\Users\Nicky\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 12:09:58.000.626,C:\Users\Nicky\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=D:\Projetos\Promoções Mostra\uPrincipal.fmx</Transaction>
+    <Transaction>2019/11/11 12:09:58.000.626,C:\Users\Nicky\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\Promoções Mostra\uPrincipal.pas</Transaction>
+    <Transaction>2019/11/11 12:10:16.000.715,C:\Users\Nicky\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Promoções Mostra\ProjetoPromoções.dproj</Transaction>
+    <Transaction>2019/11/21 20:13:25.000.951,=D:\Projetos\Promoções Mostra\Unit2.pas</Transaction>
+    <Transaction>2019/11/21 20:13:36.000.294,D:\Projetos\Promoções Mostra\Unit2.pas=D:\Projetos\Promoções Mostra\uSplash.pas</Transaction>
+    <Transaction>2019/11/21 20:13:36.000.294,D:\Projetos\Promoções Mostra\Unit2.fmx=D:\Projetos\Promoções Mostra\uSplash.fmx</Transaction>
+    <Transaction>2019/11/21 20:21:12.000.159,=D:\Projetos\Promoções Mostra\Unit1.pas</Transaction>
+    <Transaction>2019/11/21 20:21:20.000.463,D:\Projetos\Promoções Mostra\Unit1.pas=D:\Projetos\Promoções Mostra\uController.pas</Transaction>
+    <Transaction>2019/11/21 20:56:36.000.528,=D:\Projetos\Promoções Mostra\Unit1.pas</Transaction>
+    <Transaction>2019/11/21 20:56:41.000.639,D:\Projetos\Promoções Mostra\Unit1.dfm=D:\Projetos\Promoções Mostra\udm.dfm</Transaction>
+    <Transaction>2019/11/21 20:56:41.000.639,D:\Projetos\Promoções Mostra\Unit1.pas=D:\Projetos\Promoções Mostra\udm.pas</Transaction>
+    <Transaction>2019/11/21 21:05:04.000.799,=D:\Projetos\Promoções Mostra\Unit3.pas</Transaction>
+    <Transaction>2019/11/21 21:05:10.000.187,D:\Projetos\Promoções Mostra\Unit3.fmx=D:\Projetos\Promoções Mostra\uLogin.fmx</Transaction>
+    <Transaction>2019/11/21 21:05:10.000.187,D:\Projetos\Promoções Mostra\Unit3.pas=D:\Projetos\Promoções Mostra\uLogin.pas</Transaction>
+    <Transaction>2019/11/30 15:27:21.000.937,=D:\Projetos\Promoções Mostra\uBemVindo.pas</Transaction>
+    <Transaction>2019/12/05 23:10:14.000.962,D:\Projetos\Promoções Mostra\ProjetoPromoções.dproj=D:\Projetos\Promoções Mostra\ProjetoPromocoes.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0d5597cd"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
